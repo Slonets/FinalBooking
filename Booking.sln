@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalSait", "FinalSait\FinalSait.csproj", "{BE8C013F-91AB-443C-A110-2C32F4568052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{4ECD6A2D-7478-465A-BE59-0AAFFB7E7A68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE8C013F-91AB-443C-A110-2C32F4568052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE8C013F-91AB-443C-A110-2C32F4568052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE8C013F-91AB-443C-A110-2C32F4568052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE8C013F-91AB-443C-A110-2C32F4568052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ECD6A2D-7478-465A-BE59-0AAFFB7E7A68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ECD6A2D-7478-465A-BE59-0AAFFB7E7A68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ECD6A2D-7478-465A-BE59-0AAFFB7E7A68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ECD6A2D-7478-465A-BE59-0AAFFB7E7A68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA2AAD42-74E5-4920-8909-79EC5B02205D}
+	EndGlobalSection
+EndGlobal
